@@ -39,4 +39,4 @@ card = Panel(
 )
 
 # 출력
-print(card)
+print(card) 
